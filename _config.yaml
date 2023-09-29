@@ -1,5 +1,5 @@
 theme: 'minima'
 
 title: 'Breaking the Black Box: Efficient Policy Updates for Trajectory-Centric Reinforcement Learning'
-subtitle: Page for ICLR24 submission 5877.
-footer_text: Footer.
+description: Page for ICLR24 submission 5877
+titles_size: 0
