@@ -1,5 +1,5 @@
 # Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic RL 
-## Conference ICLR24, Paper ID: 5877
+## Submission to ICLR24, Paper ID: 5877
 
 <br><br>
 <p align="center">
