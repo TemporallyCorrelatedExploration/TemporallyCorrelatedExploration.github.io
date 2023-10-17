@@ -1,6 +1,3 @@
-## Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic RL 
-## Submission to ICLR24, Paper ID: 5877
-
 <br><br>
 <p align="center">
   <img src='./assets/Metaworld.gif' width="200" />
