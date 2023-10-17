@@ -1,3 +1,4 @@
+![TCE](https://github.com/TemporallyCorrelatedExploration/TemporallyCorrelatedExploration.github.io/assets/146423176/d74e470b-3954-4281-85bb-e48c16e73b73)
 <!--- -->
 ## Abstract
 
